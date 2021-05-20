@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js and next.js
 - 💞️ I’m working on visualweb.es company as a full stack dev
-- 📫 http://instagram.com/yoelkys.rrg
+- 📫 http://linkedin.com/yoelkys.rrg
 
 <!---
 yrodriguez-visualweb/yrodriguez-visualweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
